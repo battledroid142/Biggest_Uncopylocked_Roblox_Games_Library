@@ -1,9 +1,9 @@
-## NEED TO UPDATE README
+# NEED TO UPDATE README
 
-# Number of games in this archive: **`???`**
+## Number of games in this archive: **`???`**
 Last update: `02/10/2026`.
 
-# 📖Uncopylocked Roblox Games Library📖
+## 📖Uncopylocked Roblox Games Library📖
 A massive and costantly updating archive of games spanning the entire history of roblox, from **`2006`** to **`2025`**.
 
 ## Purpose 🤔
